@@ -5,4 +5,4 @@
 
  Aula ministrada por [Gabriela Pinheiro](https://www.linkedin.com/in/gabrielapinheiro129/) ✅ 
  
- [image]: https://github.com/GustavoMendes21/instagram-screen-login/blob/main/assets/readme-image.png "image-login-screen"
+ ![image](https://github.com/GustavoMendes21/instagram-screen-login/blob/main/assets/readme-image.png "image-login-screen")
