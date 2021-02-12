@@ -1,3 +1,6 @@
-# Instagram Login Screen 
+# Instagram Login Screen 💻 
 
- - Tela de login criada com HTML e CSS com o intuito de exercitar conceitos básicos dessas tecnologias
+
+ Tela de login criada no bootcamp da [Digital Inovation One](https://digitalinnovation.one/) com HTML e CSS com o intuito de exercitar conceitos básicos dessas tecnologias 🚀 
+
+ Aula ministrada por [Gabriela Pinheiro](https://www.linkedin.com/in/gabrielapinheiro129/) ✅ 
